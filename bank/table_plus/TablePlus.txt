@@ -1,0 +1,5 @@
+select now();
+(Run Current)
+
+CTR+R - refresh tables
+CTR+S - commit changes after deleting tables
